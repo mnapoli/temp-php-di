@@ -1,8 +1,7 @@
 {
-    "name": "mnapoli/php-di",
+    "name": "mnapoli/php-di-5",
     "type": "library",
-    "description": "PHP-DI is a Container that makes Dependency Injection as practical as possible in PHP",
-    "keywords": ["di", "dependency injection", "container"],
+    "description": "This is a temporary package, DO NOT USE",
     "homepage": "http://mnapoli.github.com/PHP-DI/",
     "license": "MIT",
     "autoload": {
